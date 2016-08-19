@@ -1,0 +1,5 @@
+puts "Hola Mundo!"
+puts "En un año hay un total de " + (365 * 24).to_s + " horas"
+puts "En un decada hay " + (10 * 365 * 24 * 60 * 60).to_s + " segundos"
+puts "yo tengo al rededor  de " + (19 * 365 * 24 * 60 * 60).to_s + " segundos de vida"
+puts "EL tiene unos " + ((((1031000000 / 60) / 60) / 24) / 365).to_s + " años"
